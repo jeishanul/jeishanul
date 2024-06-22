@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **shishirjeishanul@gmail.com**
 
-- 📄 Know about my experiences [http://jeishanul.com](http://jeishanul.com)
+- 📄 Know about my experiences [https://jeishanul.com](https://jeishanul.com)
 
 - ⚡ Fun fact **I think I'm funniest person with the client**
 
