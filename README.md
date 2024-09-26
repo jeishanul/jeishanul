@@ -41,3 +41,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeishanul&show_icons=true&locale=en" alt="jeishanul" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeishanul&" alt="jeishanul" /></p>
+
+[![An image of @jeishanul's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jeishanul)](https://holopin.io/@jeishanul)
