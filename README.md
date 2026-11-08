@@ -55,70 +55,68 @@ jeishanul := Engineer{
 
 ## 🛠️ Tech Stack
 
-**Languages**
-<p align="left">
+<p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=go,nodejs,ts,js,php,html,css&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=go,nodejs,ts,js,php,html,css&theme=light" alt="Languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=go,nodejs,ts,js,php,html,css,react,nextjs,vue,nuxtjs,laravel,tailwind&perline=13&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=go,nodejs,ts,js,php,html,css,react,nextjs,vue,nuxtjs,laravel,tailwind&perline=13&theme=light" alt="Languages and frameworks" />
+  </picture>
+  <br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,mysql,redis,kafka,rabbitmq,graphql,docker,aws,nginx,githubactions,git,linux,postman&perline=13&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,kafka,rabbitmq,graphql,docker,aws,nginx,githubactions,git,linux,postman&perline=13&theme=light" alt="Databases and DevOps" />
   </picture>
 </p>
 
-**Frameworks & Frontend**
-<p align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,laravel,express,tailwind&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,laravel,express,tailwind&theme=light" alt="Frameworks" />
-  </picture>
-</p>
-
-**Databases, Messaging & Caching**
-<p align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,mysql,redis,kafka,rabbitmq,graphql&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,kafka,rabbitmq,graphql&theme=light" alt="Databases" />
-  </picture>
-</p>
-
-**DevOps & Tools**
-<p align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,aws,nginx,githubactions,git,linux,postman&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=docker,aws,nginx,githubactions,git,linux,postman&theme=light" alt="DevOps" />
-  </picture>
-</p>
-
-**E-Commerce, Architecture & AI Workflow**
-<p align="left">
-  <img src="https://img.shields.io/badge/Shopify%20Admin%20%26%20Storefront%20API-7AB55C?style=flat-square&logo=shopify&logoColor=white" alt="Shopify" />
-  <img src="https://img.shields.io/badge/Liquid-7AB55C?style=flat-square&logo=shopify&logoColor=white" alt="Liquid" />
-  <img src="https://img.shields.io/badge/Microservices-0EA5E9?style=flat-square" alt="Microservices" />
-  <img src="https://img.shields.io/badge/Event--Driven-0EA5E9?style=flat-square" alt="Event-Driven" />
-  <img src="https://img.shields.io/badge/gRPC-244C5A?style=flat-square" alt="gRPC" />
-  <img src="https://img.shields.io/badge/WebSockets-6366F1?style=flat-square" alt="WebSockets" />
-  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
-  <img src="https://img.shields.io/badge/Cursor-555555?style=flat-square" alt="Cursor" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira" />
-</p>
+| Area | Skills |
+|:---|:---|
+| 🧠 **Core & Languages** | JavaScript (ES6+, DOM Manipulation) · TypeScript · Node.js · Go (Golang) · PHP · SQL · HTML5 / CSS3 |
+| 🎨 **Frameworks & Frontend** | React · Next.js · Vue.js · Nuxt.js · Laravel · Tailwind CSS · Liquid |
+| 🛍️ **Shopify & E-Commerce** | Shopify Admin API (REST / GraphQL) · Storefront API · Webhooks · Custom App Development · Theme App Extensions · Multi-gateway Billing & Payment Processing |
+| 🗄️ **Databases & Caching** | PostgreSQL (Query Tuning, Partitioning, Indexing) · MySQL · Redis (Pub/Sub, In-Memory Caching) |
+| 🧩 **Architecture & Messaging** | Microservices · Event-Driven Architecture · RESTful APIs · gRPC · Apache Kafka · RabbitMQ · WebSockets |
+| ⚙️ **Tools, AI Workflows & DevOps** | Git · GitHub Actions · Docker · Cursor · Claude Code · Postman · AWS (EC2, S3) · Nginx · Jira |
 
 ---
 
 ## 🚀 Featured Projects
 
-<!-- ✏️ The one-line descriptions below for the newer projects are best guesses — edit them to match what each product really does. -->
+<!-- ✏️ The one-line descriptions are best guesses from the product names — edit any that don't match. -->
 
-| Project | What it is | Live |
+### 🌐 Personal & Freelance
+
+| Project | What it is | Link |
 |:---|:---|:---:|
-| 💼 **Amar Finance** | POS, accounting, inventory & HRM management software — my most popular product | [![Live](https://img.shields.io/badge/Demo-0EA5E9?style=flat-square)](https://demo.amar.finance) |
-| 🛒 **Futani** | Combined multi-vendor & single-vendor e-commerce platform | [![Live](https://img.shields.io/badge/Visit-0EA5E9?style=flat-square)](http://futani.shop) |
-| ✈️ **Ghureashe** | Flight & hotel booking system | [![Live](https://img.shields.io/badge/Visit-0EA5E9?style=flat-square)](https://www.ghureashe.com) |
 | 🔎 **ProFinder** | Platform for finding professionals and services | [![Live](https://img.shields.io/badge/Visit-0EA5E9?style=flat-square)](https://profinder.vip) |
 | 📦 **BanglaDrop** | E-commerce & dropshipping platform for Bangladesh | [![Live](https://img.shields.io/badge/Visit-0EA5E9?style=flat-square)](https://bangladrop.com) |
 | 🛍️ **Packly** | Online commerce platform | [![Live](https://img.shields.io/badge/Visit-0EA5E9?style=flat-square)](https://packly.com) |
 | 🚚 **Packly Drive** | Delivery & logistics companion to Packly | [![Live](https://img.shields.io/badge/Visit-0EA5E9?style=flat-square)](https://packlydrive.com) |
-| 💬 **Jeishanul Chat** | Real-time chat application | [![Live](https://img.shields.io/badge/Visit-0EA5E9?style=flat-square)](https://chat.jeishanul.com) |
+| 💬 **jChat** | Real-time chat application | [![Live](https://img.shields.io/badge/Visit-0EA5E9?style=flat-square)](https://chat.jeishanul.com) |
+| 💼 **GigClickers** | Online gig & micro-task platform | [![Live](https://img.shields.io/badge/Visit-0EA5E9?style=flat-square)](https://gigclickers.com) |
 | 📨 **GigClickers SMS** | Bulk SMS & notification platform | [![Live](https://img.shields.io/badge/Visit-0EA5E9?style=flat-square)](https://sms.gigclickers.com) |
 | 🧰 **KajClick** | Online work & task marketplace | [![Live](https://img.shields.io/badge/Visit-0EA5E9?style=flat-square)](https://kajclick.com) |
+| 📋 **TaskOpera** | Task & work marketplace platform | [![Live](https://img.shields.io/badge/Visit-0EA5E9?style=flat-square)](https://taskopera.com) |
 | 🛒 **TaskOpera Cart** | E-commerce storefront & cart system | [![Live](https://img.shields.io/badge/Visit-0EA5E9?style=flat-square)](https://cart.taskopera.com) |
+
+### 🏢 Built at RazinSoft
+
+| Project | What it is | Link |
+|:---|:---|:---:|
+| 🛒 **Ready eCommerce** | Multi-vendor e-commerce platform with web storefront | [![Demo](https://img.shields.io/badge/Demo-6366F1?style=flat-square)](https://webreadyecommerce.razinsoft.com/) |
+| 🎓 **Ready LMS** | Learning management system for online courses | [![Demo](https://img.shields.io/badge/Demo-6366F1?style=flat-square)](https://readylms.razinsoft.com/) |
+| 🧾 **Ready POS** | Point-of-sale & inventory management system | [![Demo](https://img.shields.io/badge/Demo-6366F1?style=flat-square)](https://readypos.razinsoft.com/) |
+| 🧺 **Ready Laundry** | Laundry service ordering & management platform | [![Demo](https://img.shields.io/badge/Demo-6366F1?style=flat-square)](https://adminlaundry.razinsoft.com/) |
+| 🏬 **AliCom** | E-commerce marketplace platform | [![Demo](https://img.shields.io/badge/Demo-6366F1?style=flat-square)](https://alicom.razinsoft.com/) |
+
+### 🏢 Built at Pico Technology
+
+| Project | What it is | Link |
+|:---|:---|:---:|
+| ✉️ **PicoText** | Text messaging platform | [![Demo](https://img.shields.io/badge/Demo-6366F1?style=flat-square)](https://picotext.picotech.app/) |
+| 📣 **PicoSMM** | Social media marketing panel | [![Demo](https://img.shields.io/badge/Demo-6366F1?style=flat-square)](https://smm.picotech.app/) |
+| 🔌 **PicoMSG** | Messaging gateway | [![Demo](https://img.shields.io/badge/Demo-6366F1?style=flat-square)](https://gateway.picotech.app/) |
+| 🔳 **PicoQR** | QR code generator & management | [![Demo](https://img.shields.io/badge/Demo-6366F1?style=flat-square)](https://qr.picotech.app/) |
+| 📧 **PicoMail** | Email marketing platform | [![Demo](https://img.shields.io/badge/Demo-6366F1?style=flat-square)](https://picomail.picotech.app) |
+| 📲 **PicoSMS** | Bulk SMS platform with reseller management | [![Demo](https://img.shields.io/badge/Demo-6366F1?style=flat-square)](https://sms.picotech.app/demo) |
 
 <p align="center"><a href="https://jeishanul.com"><b>➡️ See everything on jeishanul.com</b></a></p>
 
@@ -172,7 +170,7 @@ Grew from intern to engineer by shipping 3 production SaaS apps: bulk SMS platfo
 
 ## 🤝 Let's Work Together
 
-I enjoy turning messy business requirements into clean, reliable systems — especially logistics, e-commerce and accounting software. Open to interesting projects and collaborations.
+I enjoy turning messy business requirements into clean, reliable systems — especially logistics, e-commerce and SaaS products. Open to interesting projects and collaborations.
 
 📫 **shishirjeishanul@gmail.com** · 🌐 **[jeishanul.com](https://jeishanul.com)**
 
