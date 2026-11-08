@@ -255,10 +255,6 @@ Grew from intern to engineer by shipping 3 production SaaS apps: bulk SMS platfo
   </picture>
 </p>
 
-<a href="https://wa.me/8801303580593" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-</a>
-
 <p align="center">
   <a href="https://holopin.io/@jeishanul"><img src="https://holopin.me/jeishanul" alt="Holopin badges" /></a>
 </p>
@@ -269,7 +265,7 @@ Grew from intern to engineer by shipping 3 production SaaS apps: bulk SMS platfo
 
 I enjoy turning messy business requirements into clean, reliable systems — especially logistics, e-commerce and SaaS products. Open to interesting projects and collaborations.
 
-📫 **shishirjeishanul@gmail.com** · 🌐 **[jeishanul.com](https://jeishanul.com)**
+📫 **[shishirjeishanul@gmail.com](mailto:shishirjeishanul@gmail.com)** · 💬 **[WhatsApp](https://wa.me/8801303580593)** · 🌐 **[jeishanul.com](https://jeishanul.com)**
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0575E6,100:00F260&height=110&section=footer" width="100%" alt="Footer" />
