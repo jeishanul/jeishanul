@@ -28,26 +28,32 @@ Full Stack Engineer with 5+ years of experience specialising in distributed back
 
 ```go
   jeishanul := Engineer{
-  	Name:     "MD. Jeishanul Haque Shishir", //[cite: 1]
-  	Role:     "Backend & Distributed Systems Engineer @ Steadfast Courier Limited", //[cite: 1]
-  	Location: "Dhaka, Bangladesh 🇧🇩", //[cite: 1]
-  	Since:    2021, //[cite: 2]
-  	Backend:  []string{"Go", "Node.js", "PHP/Laravel", "TypeScript"}, //[cite: 1]
-  	Frontend: []string{"React", "Next.js", "Vue.js", "Nuxt.js", "Tailwind CSS", "Liquid"}, //[cite: 1]
-  	Data:     []string{"PostgreSQL", "MySQL", "Redis"}, //[cite: 1]
-  	Systems:  []string{"Microservices", "Apache Kafka", "RabbitMQ", "gRPC", "Docker"}, //[cite: 1]
-  	Focus:    []string{"Distributed Systems", "Shopify & E-Commerce", "High-Throughput Webhooks", "Database Optimization"}, //[cite: 1]
-  	AITools:  []string{"Cursor", "Claude Code"}, //[cite: 1]
+  	Name:     "MD. Jeishanul Haque Shishir",
+  	Role:     "Backend & Distributed Systems Engineer @ Steadfast Courier Limited",
+  	Location: "Dhaka, Bangladesh 🇧🇩",
+  	Since:    2021,
+  	Backend:  []string{"Go", "Node.js", "PHP/Laravel", "TypeScript"},
+  	Frontend: []string{"React", "Next.js", "Vue.js", "Nuxt.js", "Tailwind CSS", "Liquid"},
+  	Data:     []string{"PostgreSQL", "MySQL", "Redis"},
+  	Systems:  []string{"Microservices", "Apache Kafka", "RabbitMQ", "gRPC", "Docker"},
+  	Focus:    []string{"Distributed Systems", "Shopify & E-Commerce", "High-Throughput Webhooks", "Database Optimisation"},
+  	AITools:  []string{"Cursor", "Claude Code"},
   	FunFact:  "I think I'm the funniest person with the client 😄",
   }
 ```
 
 ## 📈 Impact at a Glance
 
-| 🚚 Daily Shipments | ⚡ Query Execution Cut | 🔍 Search Latency Cut | 📦 Catalogue Managed | 🗄️ Peak DB Load Cut |
-|:---|:---|:---|:---|:---|
-| **15,000+** | **45%** | **up to 70%** | **300K+ SKUs** | **up to 40%** |
-| Go & PostgreSQL dispatch[cite: 1] | Partitioning & composite indexing[cite: 1] | Redis & selective caching[cite: 2] | Shopify & inventory sync[cite: 2] | Redis & schema profiling[cite: 2] |
+| Metric | Achievement | Technologies & Focus Area |
+|:---|:---|:---|
+| 🚚 **Daily Dispatch Throughput** | **15,000+** shipments/day | Go, PostgreSQL, low-latency microservices[cite: 1] |
+| ⚡ **Query Execution Speed-up** | **45% cut** in execution time | Partitioning, composite indexing & query profiling[cite: 1] |
+| 🔍 **Inventory Search Latency** | **up to 70% reduction** | Redis caching & targeted SQL indexing[cite: 2] |
+| 📦 **E-Commerce Catalogue** | **300K+ SKUs** managed | Automated Shopify Admin & Storefront API sync[cite: 1, 2] |
+| 🗄️ **Peak Database Offloading** | **up to 40% load cut** | Redis caching & schema profiling across MySQL/PostgreSQL[cite: 2] |
+| 🚀 **Production SaaS Delivery** | **3 Full Platforms** | Independently architected bulk SMS & billing engines[cite: 2] |
+| 🔄 **Event Streaming & Reliability**| **Real-time & Zero Drop** | Kafka telemetry streams & RabbitMQ DLQ dead-letter routing[cite: 1] |
+| ⏱️ **Deployment Reliability** | **Zero-Downtime** | Docker, GitHub Actions, Nginx & AWS ALB deployments[cite: 1] |
 
 ---
 
