@@ -222,14 +222,28 @@ Full Stack Engineer with 5+ years of experience specialising in distributed back
 
 ## 💼 Experience
 
-**🟢 Software Engineer — Steadfast Courier Limited** · *Nov 2024 – Present* · Dhaka
-Backend & distributed systems for a logistics super app: Go + PostgreSQL microservices, Kafka tracking pipelines, RabbitMQ consumers with dead-letter routing, merchant webhook ingestion, Dockerised zero-downtime deploys with GitHub Actions, Nginx & AWS ALB.
+**🟢 Software Engineer (Backend & Distributed Systems) — Steadfast Courier Limited**  
+*Nov 2024 – Present* · Dhaka, Bangladesh
+- Engineered Go and PostgreSQL dispatch microservices processing **15,000+ daily shipments** with low-latency execution.
+- Streamed real-time parcel tracking telemetry and status transitions using **Apache Kafka** event pipelines.
+- Architected **RabbitMQ** consumers with dead-letter queue (DLQ) routing to process merchant webhooks and batch notifications during peak dispatch spikes.
+- Lowered transactional reporting execution times by **45%** via PostgreSQL table partitioning, query profiling, and composite indexing.
+- Containerised microservices using Docker and orchestrated zero-downtime CI/CD deployments with GitHub Actions behind Nginx and AWS ALB.
 
-**🔵 Software Engineer — RazinSoft Limited** · *Jun 2023 – Nov 2024*
-Full stack for enterprise SaaS & e-commerce: Node.js, Laravel, React and Nuxt.js platforms, custom Shopify Admin/GraphQL integrations, Redis caching across a 300K+ SKU catalogue, direct work with international clients.
+**🔵 Software Engineer (Full Stack) — RazinSoft Limited**  
+*Jun 2023 – Nov 2024*
+- Built enterprise SaaS and e-commerce platforms using Node.js, Laravel, React, and Nuxt.js with multi-gateway payment processing.
+- Engineered custom Shopify integrations (Admin REST/GraphQL APIs & webhooks) to synchronise catalogues, stock levels, and order fulfilment.
+- Cut inventory SQL search latency by up to **70%** across a **300K+ SKU catalog** through selective Redis caching and schema indexing.
+- Developed tailored storefront components using vanilla JavaScript DOM manipulation and React to optimise conversion flows.
+- Coordinated sprint planning, requirement gathering, and technical deliveries directly with international clients.
 
-**🟣 Software Engineer — Pico Technology** · *May 2021 – May 2023*
-Grew from intern to engineer by shipping 3 production SaaS apps: bulk SMS platforms with reseller tiers, subscription billing, form builders and queue workers.
+**🟣 Software Engineer (Full Stack) — Pico Technology**  
+*May 2021 – May 2023*
+- Independently architected and deployed **3 production-grade SaaS platforms**, advancing from Intern to Software Engineer.
+- Engineered high-throughput bulk SMS and notification systems with multi-tier reseller models, queue workers, and automated billing.
+- Developed dynamic form builders, customizable storefront tools, and recurring subscription engines with automated webhook callbacks.
+- Optimised MySQL/PostgreSQL relational schemas and introduced Redis caching, cutting peak database load by up to **40%**.
 
 ---
 
