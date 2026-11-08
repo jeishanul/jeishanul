@@ -10,14 +10,17 @@
 </p>
 
 <p align="center">
-  <a href="https://jeishanul.com"><img src="https://img.shields.io/badge/Portfolio-jeishanul.com-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/jeishanul"><img src="https://img.shields.io/badge/LinkedIn-jeishanul-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:shishirjeishanul@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://wa.link/rundct"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="https://jeishanul.com"><img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  &nbsp;
+  <a href="https://linkedin.com/in/jeishanul"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="mailto:shishirjeishanul@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  &nbsp;
+  <a href="https://wa.link/rundct"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jeishanul&label=Profile%20views&color=0ea5e9&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=jeishanul&label=Profile%20Views&color=0ea5e9&style=flat-square" alt="Profile views" />
 </p>
 
 ---
