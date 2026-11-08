@@ -55,26 +55,81 @@ jeishanul := Engineer{
 
 ## 🛠️ Tech Stack
 
+<h4 align="center">⚙️ Backend</h4>
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=go,nodejs,ts,js,php,html,css,react,nextjs,vue,nuxtjs,laravel,tailwind&perline=13&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=go,nodejs,ts,js,php,html,css,react,nextjs,vue,nuxtjs,laravel,tailwind&perline=13&theme=light" alt="Languages and frameworks" />
-  </picture>
-  <br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,mysql,redis,kafka,rabbitmq,graphql,docker,aws,nginx,githubactions,git,linux,postman&perline=13&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,kafka,rabbitmq,graphql,docker,aws,nginx,githubactions,git,linux,postman&perline=13&theme=light" alt="Databases and DevOps" />
-  </picture>
+  <a href="https://go.dev" title="Go"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=go&theme=dark" /><img src="https://skillicons.dev/icons?i=go&theme=light" width="48" alt="Go" /></picture></a>
+  &nbsp;
+  <a href="https://nodejs.org" title="Node.js"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs&theme=dark" /><img src="https://skillicons.dev/icons?i=nodejs&theme=light" width="48" alt="Node.js" /></picture></a>
+  &nbsp;
+  <a href="https://expressjs.com" title="Express"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=express&theme=dark" /><img src="https://skillicons.dev/icons?i=express&theme=light" width="48" alt="Express" /></picture></a>
+  &nbsp;
+  <a href="https://laravel.com" title="Laravel"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=laravel&theme=dark" /><img src="https://skillicons.dev/icons?i=laravel&theme=light" width="48" alt="Laravel" /></picture></a>
+  &nbsp;
+  <a href="https://www.php.net" title="PHP"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=php&theme=dark" /><img src="https://skillicons.dev/icons?i=php&theme=light" width="48" alt="PHP" /></picture></a>
 </p>
 
-| Area | Skills |
-|:---|:---|
-| 🧠 **Core & Languages** | JavaScript (ES6+, DOM Manipulation) · TypeScript · Node.js · Go (Golang) · PHP · SQL · HTML5 / CSS3 |
-| 🎨 **Frameworks & Frontend** | React · Next.js · Vue.js · Nuxt.js · Laravel · Tailwind CSS · Liquid |
-| 🛍️ **Shopify & E-Commerce** | Shopify Admin API (REST / GraphQL) · Storefront API · Webhooks · Custom App Development · Theme App Extensions · Multi-gateway Billing & Payment Processing |
-| 🗄️ **Databases & Caching** | PostgreSQL (Query Tuning, Partitioning, Indexing) · MySQL · Redis (Pub/Sub, In-Memory Caching) |
-| 🧩 **Architecture & Messaging** | Microservices · Event-Driven Architecture · RESTful APIs · gRPC · Apache Kafka · RabbitMQ · WebSockets |
-| ⚙️ **Tools, AI Workflows & DevOps** | Git · GitHub Actions · Docker · Cursor · Claude Code · Postman · AWS (EC2, S3) · Nginx · Jira |
+<h4 align="center">🎨 Frontend</h4>
+<p align="center">
+  <a href="https://nextjs.org" title="Next.js"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs&theme=dark" /><img src="https://skillicons.dev/icons?i=nextjs&theme=light" width="48" alt="Next.js" /></picture></a>
+  &nbsp;
+  <a href="https://react.dev" title="React"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react&theme=dark" /><img src="https://skillicons.dev/icons?i=react&theme=light" width="48" alt="React" /></picture></a>
+  &nbsp;
+  <a href="https://vuejs.org" title="Vue.js"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vue&theme=dark" /><img src="https://skillicons.dev/icons?i=vue&theme=light" width="48" alt="Vue.js" /></picture></a>
+  &nbsp;
+  <a href="https://tailwindcss.com" title="Tailwind CSS"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=tailwind&theme=dark" /><img src="https://skillicons.dev/icons?i=tailwind&theme=light" width="48" alt="Tailwind CSS" /></picture></a>
+  &nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html&theme=dark" /><img src="https://skillicons.dev/icons?i=html&theme=light" width="48" alt="HTML5" /></picture></a>
+</p>
+
+<h4 align="center">🗄️ Database</h4>
+<p align="center">
+  <a href="https://www.postgresql.org" title="PostgreSQL"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres&theme=dark" /><img src="https://skillicons.dev/icons?i=postgres&theme=light" width="48" alt="PostgreSQL" /></picture></a>
+  &nbsp;
+  <a href="https://www.mysql.com" title="MySQL"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql&theme=dark" /><img src="https://skillicons.dev/icons?i=mysql&theme=light" width="48" alt="MySQL" /></picture></a>
+  &nbsp;
+  <a href="https://redis.io" title="Redis"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=redis&theme=dark" /><img src="https://skillicons.dev/icons?i=redis&theme=light" width="48" alt="Redis" /></picture></a>
+</p>
+
+<h4 align="center">☁️ Server & Infrastructure</h4>
+<p align="center">
+  <a href="https://www.docker.com" title="Docker"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker&theme=dark" /><img src="https://skillicons.dev/icons?i=docker&theme=light" width="48" alt="Docker" /></picture></a>
+  &nbsp;
+  <a href="https://www.rabbitmq.com" title="RabbitMQ"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=rabbitmq&theme=dark" /><img src="https://skillicons.dev/icons?i=rabbitmq&theme=light" width="48" alt="RabbitMQ" /></picture></a>
+  &nbsp;
+  <a href="https://kafka.apache.org" title="Apache Kafka"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=kafka&theme=dark" /><img src="https://skillicons.dev/icons?i=kafka&theme=light" width="48" alt="Apache Kafka" /></picture></a>
+  &nbsp;
+  <a href="https://nginx.org" title="Nginx"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nginx&theme=dark" /><img src="https://skillicons.dev/icons?i=nginx&theme=light" width="48" alt="Nginx" /></picture></a>
+  &nbsp;
+  <a href="https://aws.amazon.com" title="AWS"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws&theme=dark" /><img src="https://skillicons.dev/icons?i=aws&theme=light" width="48" alt="AWS" /></picture></a>
+  &nbsp;
+  <a href="https://www.digitalocean.com" title="DigitalOcean"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/digitalocean-dark.svg" /><img src="assets/icons/digitalocean-light.svg" width="48" alt="DigitalOcean" /></picture></a>
+  &nbsp;
+  <a href="https://en.wikipedia.org/wiki/Virtual_private_server" title="VPS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/vps-dark.svg" /><img src="assets/icons/vps-light.svg" width="48" alt="VPS" /></picture></a>
+  &nbsp;
+  <a href="https://www.linux.org" title="Linux"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux&theme=dark" /><img src="https://skillicons.dev/icons?i=linux&theme=light" width="48" alt="Linux" /></picture></a>
+</p>
+
+<h4 align="center">🧰 Tools</h4>
+<p align="center">
+  <a href="https://git-scm.com" title="Git"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git&theme=dark" /><img src="https://skillicons.dev/icons?i=git&theme=light" width="48" alt="Git" /></picture></a>
+  &nbsp;
+  <a href="https://github.com" title="GitHub"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=github&theme=dark" /><img src="https://skillicons.dev/icons?i=github&theme=light" width="48" alt="GitHub" /></picture></a>
+  &nbsp;
+  <a href="https://github.com/features/actions" title="GitHub Actions"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=githubactions&theme=dark" /><img src="https://skillicons.dev/icons?i=githubactions&theme=light" width="48" alt="GitHub Actions" /></picture></a>
+  &nbsp;
+  <a href="https://www.postman.com" title="Postman"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postman&theme=dark" /><img src="https://skillicons.dev/icons?i=postman&theme=light" width="48" alt="Postman" /></picture></a>
+  &nbsp;
+  <a href="https://www.atlassian.com/software/jira" title="Jira"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/jira-dark.svg" /><img src="assets/icons/jira-light.svg" width="48" alt="Jira" /></picture></a>
+</p>
+
+<h4 align="center">🤖 AI Tools</h4>
+<p align="center">
+  <a href="https://cursor.com" title="Cursor"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/cursor-dark.svg" /><img src="assets/icons/cursor-light.svg" width="48" alt="Cursor" /></picture></a>
+  &nbsp;
+  <a href="https://antigravity.google" title="Google Antigravity"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/antigravity-dark.svg" /><img src="assets/icons/antigravity-light.svg" width="48" alt="Google Antigravity" /></picture></a>
+  &nbsp;
+  <a href="https://www.anthropic.com/claude-code" title="Claude Code"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/claudecode-dark.svg" /><img src="assets/icons/claudecode-light.svg" width="48" alt="Claude Code" /></picture></a>
+</p>
 
 ---
 
@@ -82,14 +137,19 @@ jeishanul := Engineer{
 
 <!-- ✏️ The one-line descriptions are best guesses from the product names — edit any that don't match. -->
 
+### 🚚 Built at Steadfast Courier Limited
+
+| Project | What it is | Link |
+|:---|:---|:---:|
+| 📦 **BanglaDrop** | E-commerce & dropshipping platform for Bangladesh | [![Live](https://img.shields.io/badge/Visit-0EA5E9?style=flat-square)](https://bangladrop.com) |
+| 🛍️ **Packly** | Online commerce platform | [![Live](https://img.shields.io/badge/Visit-0EA5E9?style=flat-square)](https://packly.com) |
+| 🚚 **Packly Drive** | Delivery & logistics companion to Packly | [![Live](https://img.shields.io/badge/Visit-0EA5E9?style=flat-square)](https://packlydrive.com) |
+
 ### 🌐 Personal & Freelance
 
 | Project | What it is | Link |
 |:---|:---|:---:|
 | 🔎 **ProFinder** | Platform for finding professionals and services | [![Live](https://img.shields.io/badge/Visit-0EA5E9?style=flat-square)](https://profinder.vip) |
-| 📦 **BanglaDrop** | E-commerce & dropshipping platform for Bangladesh | [![Live](https://img.shields.io/badge/Visit-0EA5E9?style=flat-square)](https://bangladrop.com) |
-| 🛍️ **Packly** | Online commerce platform | [![Live](https://img.shields.io/badge/Visit-0EA5E9?style=flat-square)](https://packly.com) |
-| 🚚 **Packly Drive** | Delivery & logistics companion to Packly | [![Live](https://img.shields.io/badge/Visit-0EA5E9?style=flat-square)](https://packlydrive.com) |
 | 💬 **jChat** | Real-time chat application | [![Live](https://img.shields.io/badge/Visit-0EA5E9?style=flat-square)](https://chat.jeishanul.com) |
 | 💼 **GigClickers** | Online gig & micro-task platform | [![Live](https://img.shields.io/badge/Visit-0EA5E9?style=flat-square)](https://gigclickers.com) |
 | 📨 **GigClickers SMS** | Bulk SMS & notification platform | [![Live](https://img.shields.io/badge/Visit-0EA5E9?style=flat-square)](https://sms.gigclickers.com) |
