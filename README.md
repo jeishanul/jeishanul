@@ -55,8 +55,8 @@ jeishanul := Engineer{
 
 ## 🛠️ Tech Stack
 
-<h4 align="center">⚙️ Backend</h4>
-<p align="center">
+<h4>⚙️ Backend</h4>
+<p>
   <a href="https://go.dev" title="Go"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=go&theme=dark" /><img src="https://skillicons.dev/icons?i=go&theme=light" width="48" alt="Go" /></picture></a>
   &nbsp;
   <a href="https://nodejs.org" title="Node.js"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs&theme=dark" /><img src="https://skillicons.dev/icons?i=nodejs&theme=light" width="48" alt="Node.js" /></picture></a>
@@ -68,8 +68,8 @@ jeishanul := Engineer{
   <a href="https://www.php.net" title="PHP"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=php&theme=dark" /><img src="https://skillicons.dev/icons?i=php&theme=light" width="48" alt="PHP" /></picture></a>
 </p>
 
-<h4 align="center">🎨 Frontend</h4>
-<p align="center">
+<h4>🎨 Frontend</h4>
+<p>
   <a href="https://nextjs.org" title="Next.js"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs&theme=dark" /><img src="https://skillicons.dev/icons?i=nextjs&theme=light" width="48" alt="Next.js" /></picture></a>
   &nbsp;
   <a href="https://react.dev" title="React"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react&theme=dark" /><img src="https://skillicons.dev/icons?i=react&theme=light" width="48" alt="React" /></picture></a>
@@ -81,8 +81,8 @@ jeishanul := Engineer{
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html&theme=dark" /><img src="https://skillicons.dev/icons?i=html&theme=light" width="48" alt="HTML5" /></picture></a>
 </p>
 
-<h4 align="center">🗄️ Database</h4>
-<p align="center">
+<h4>🗄️ Database</h4>
+<p>
   <a href="https://www.postgresql.org" title="PostgreSQL"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres&theme=dark" /><img src="https://skillicons.dev/icons?i=postgres&theme=light" width="48" alt="PostgreSQL" /></picture></a>
   &nbsp;
   <a href="https://www.mysql.com" title="MySQL"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql&theme=dark" /><img src="https://skillicons.dev/icons?i=mysql&theme=light" width="48" alt="MySQL" /></picture></a>
@@ -90,8 +90,8 @@ jeishanul := Engineer{
   <a href="https://redis.io" title="Redis"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=redis&theme=dark" /><img src="https://skillicons.dev/icons?i=redis&theme=light" width="48" alt="Redis" /></picture></a>
 </p>
 
-<h4 align="center">☁️ Server & Infrastructure</h4>
-<p align="center">
+<h4>☁️ Server & Infrastructure</h4>
+<p>
   <a href="https://www.docker.com" title="Docker"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker&theme=dark" /><img src="https://skillicons.dev/icons?i=docker&theme=light" width="48" alt="Docker" /></picture></a>
   &nbsp;
   <a href="https://www.rabbitmq.com" title="RabbitMQ"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=rabbitmq&theme=dark" /><img src="https://skillicons.dev/icons?i=rabbitmq&theme=light" width="48" alt="RabbitMQ" /></picture></a>
@@ -102,15 +102,15 @@ jeishanul := Engineer{
   &nbsp;
   <a href="https://aws.amazon.com" title="AWS"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws&theme=dark" /><img src="https://skillicons.dev/icons?i=aws&theme=light" width="48" alt="AWS" /></picture></a>
   &nbsp;
-  <a href="https://www.digitalocean.com" title="DigitalOcean"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/digitalocean-dark.svg" /><img src="assets/icons/digitalocean-light.svg" width="48" alt="DigitalOcean" /></picture></a>
+  <a href="https://www.digitalocean.com" title="DigitalOcean"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=digitalocean&theme=dark" /><img src="https://skillicons.dev/icons?i=digitalocean&theme=light" width="48" alt="DigitalOcean" /></picture></a>
   &nbsp;
-  <a href="https://en.wikipedia.org/wiki/Virtual_private_server" title="VPS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/vps-dark.svg" /><img src="assets/icons/vps-light.svg" width="48" alt="VPS" /></picture></a>
+  <a href="https://en.wikipedia.org/wiki/Virtual_private_server" title="VPS"><img src="https://img.shields.io/badge/VPS-Server-23272A?style=for-the-badge&logo=serverfault&logoColor=white" height="40" alt="VPS" /></a>
   &nbsp;
   <a href="https://www.linux.org" title="Linux"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux&theme=dark" /><img src="https://skillicons.dev/icons?i=linux&theme=light" width="48" alt="Linux" /></picture></a>
 </p>
 
-<h4 align="center">🧰 Tools</h4>
-<p align="center">
+<h4>🧰 Tools</h4>
+<p>
   <a href="https://git-scm.com" title="Git"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git&theme=dark" /><img src="https://skillicons.dev/icons?i=git&theme=light" width="48" alt="Git" /></picture></a>
   &nbsp;
   <a href="https://github.com" title="GitHub"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=github&theme=dark" /><img src="https://skillicons.dev/icons?i=github&theme=light" width="48" alt="GitHub" /></picture></a>
@@ -119,16 +119,16 @@ jeishanul := Engineer{
   &nbsp;
   <a href="https://www.postman.com" title="Postman"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postman&theme=dark" /><img src="https://skillicons.dev/icons?i=postman&theme=light" width="48" alt="Postman" /></picture></a>
   &nbsp;
-  <a href="https://www.atlassian.com/software/jira" title="Jira"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/jira-dark.svg" /><img src="assets/icons/jira-light.svg" width="48" alt="Jira" /></picture></a>
+  <a href="https://www.atlassian.com/software/jira" title="Jira"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=jira&theme=dark" /><img src="https://skillicons.dev/icons?i=jira&theme=light" width="48" alt="Jira" /></picture></a>
 </p>
 
-<h4 align="center">🤖 AI Tools</h4>
-<p align="center">
-  <a href="https://cursor.com" title="Cursor"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/cursor-dark.svg" /><img src="assets/icons/cursor-light.svg" width="48" alt="Cursor" /></picture></a>
+<h4>🤖 AI Tools</h4>
+<p>
+  <a href="https://cursor.com" title="Cursor"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cursor/cursor-original.svg" width="48" height="48" alt="Cursor" /></a>
   &nbsp;
-  <a href="https://antigravity.google" title="Google Antigravity"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/antigravity-dark.svg" /><img src="assets/icons/antigravity-light.svg" width="48" alt="Google Antigravity" /></picture></a>
+  <a href="https://antigravity.google" title="Google Antigravity"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" width="48" height="48" alt="Google Antigravity" /></a>
   &nbsp;
-  <a href="https://www.anthropic.com/claude-code" title="Claude Code"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/claudecode-dark.svg" /><img src="assets/icons/claudecode-light.svg" width="48" alt="Claude Code" /></picture></a>
+  <a href="https://www.anthropic.com/claude-code" title="Claude Code"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/claude/claude-original.svg" width="48" height="48" alt="Claude Code" /></a>
 </p>
 
 ---
