@@ -1,6 +1,6 @@
 <!-- ============ HEADER ============ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=1000&color=0EA5E9&center=true&vCenter=true&width=750&height=70&lines=Hi%2C+I'm+Jeishanul+Haque+Shishir+%F0%9F%91%8B;Backend+%26+Distributed+Systems+Engineer;Go+%E2%80%A2+Apache+Kafka+%E2%80%A2+PostgreSQL" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F260,100:0575E6&height=200&section=header&text=Jeishanul%20Haque%20Shishir&fontSize=40&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Software%20Engineer%20%E2%80%A2%20Dhaka,%20Bangladesh&descSize=16&descAlignY=56" width="100%" alt="Header" />
 </p>
 
 <p align="center">
