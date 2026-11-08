@@ -24,7 +24,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full Stack Software Engineer** with **5+ years** of experience building scalable backend architectures, high-volume web applications and custom e-commerce integrations. Right now I build **Go microservices for a logistics super app** at **Steadfast Courier Limited**, handling 15,000+ parcels a day.
+Full Stack Engineer with 5+ years of experience specialising in distributed backend systems and e-commerce ecosystems (Go, Node.js, PHP/Laravel, PostgreSQL). Currently engineering high-throughput microservices and real-time Kafka event pipelines at Steadfast Courier Limited, supporting 15,000+ daily parcel operations across Bangladesh.
 
 ```go
 jeishanul := Engineer{
