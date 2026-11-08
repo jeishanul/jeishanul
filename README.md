@@ -147,6 +147,29 @@ jeishanul := Engineer{
   <a href="https://www.atlassian.com/software/jira" title="Jira"><img src="https://skillicons.dev/icons?i=jira&theme=dark" width="48" alt="Jira" /></a>
 </p>
 
+<h4>🧠 AI, LLM & Machine Learning Engineering</h4>
+<p>
+  <a href="https://www.python.org" title="Python"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" alt="Python" /></a>
+  &nbsp;
+  <a href="https://pytorch.org" title="PyTorch (Model Training & Fine-Tuning)"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="48" alt="PyTorch" /></a>
+  &nbsp;
+  <a href="https://www.tensorflow.org" title="TensorFlow / Keras"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="48" alt="TensorFlow" /></a>
+  &nbsp;
+  <a href="https://huggingface.co" title="Hugging Face (Transformers, PEFT, LoRA)"><img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="48" alt="Hugging Face" /></a>
+  &nbsp;
+  <a href="https://openai.com" title="OpenAI API & LLM Architectures"><img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" height="48" alt="OpenAI" /></a>
+  &nbsp;
+  <a href="https://www.langchain.com" title="LangChain (LLM Orchestration & Agents)"><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" height="48" alt="LangChain" /></a>
+  &nbsp;
+  <a href="https://www.llamaindex.ai" title="LlamaIndex (RAG Frameworks & Data Ingestion)"><img src="https://img.shields.io/badge/LlamaIndex-6A1B9A?style=for-the-badge&logo=instructure&logoColor=white" height="48" alt="LlamaIndex" /></a>
+  &nbsp;
+  <a href="https://www.pinecone.io" title="Pinecone (Vector DBs & Semantic Search)"><img src="https://img.shields.io/badge/Vector_DB_/_RAG-000000?style=for-the-badge&logo=databricks&logoColor=white" height="48" alt="Vector DBs" /></a>
+  &nbsp;
+  <a href="https://ollama.com" title="Ollama (Local LLM Serving & Inference)"><img src="https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=ollama&logoColor=black" height="48" alt="Ollama" /></a>
+  &nbsp;
+  <a href="https://scikit-learn.org" title="Scikit-Learn (Data Preprocessing & Evaluation)"><img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="48" alt="Scikit-Learn" /></a>
+</p>
+
 ---
 
 ## 🚀 Featured Projects
