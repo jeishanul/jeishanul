@@ -27,17 +27,19 @@
 Full Stack Engineer with 5+ years of experience specialising in distributed backend systems and e-commerce ecosystems (Go, Node.js, PHP/Laravel, PostgreSQL). Currently engineering high-throughput microservices and real-time Kafka event pipelines at Steadfast Courier Limited, supporting 15,000+ daily parcel operations across Bangladesh.
 
 ```go
-jeishanul := Engineer{
-    Name:     "MD. Jeishanul Haque Shishir",
-    Role:     "Software Engineer @ Steadfast Courier Limited",
-    Location: "Dhaka, Bangladesh 🇧🇩",
-    Since:    2021,
-    Backend:  []string{"Go", "Node.js", "PHP/Laravel"},
-    Frontend: []string{"React", "Next.js", "Vue.js", "Nuxt.js"},
-    Focus:    []string{"Microservices", "Event-Driven Systems", "Shopify & E-Commerce", "PostgreSQL Tuning"},
-    AITools:  []string{"Claude Code", "Cursor"},
-    FunFact:  "I think I'm the funniest person with the client 😄",
-}
+  jeishanul := Engineer{
+  	Name:     "MD. Jeishanul Haque Shishir", //[cite: 1]
+  	Role:     "Backend & Distributed Systems Engineer @ Steadfast Courier Limited", //[cite: 1]
+  	Location: "Dhaka, Bangladesh 🇧🇩", //[cite: 1]
+  	Since:    2021, //[cite: 2]
+  	Backend:  []string{"Go", "Node.js", "PHP/Laravel", "TypeScript"}, //[cite: 1]
+  	Frontend: []string{"React", "Next.js", "Vue.js", "Nuxt.js", "Tailwind CSS", "Liquid"}, //[cite: 1]
+  	Data:     []string{"PostgreSQL", "MySQL", "Redis"}, //[cite: 1]
+  	Systems:  []string{"Microservices", "Apache Kafka", "RabbitMQ", "gRPC", "Docker"}, //[cite: 1]
+  	Focus:    []string{"Distributed Systems", "Shopify & E-Commerce", "High-Throughput Webhooks", "Database Optimization"}, //[cite: 1]
+  	AITools:  []string{"Cursor", "Claude Code"}, //[cite: 1]
+  	FunFact:  "I think I'm the funniest person with the client 😄",
+  }
 ```
 
 ## 📈 Impact at a Glance
