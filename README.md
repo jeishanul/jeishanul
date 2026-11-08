@@ -255,6 +255,10 @@ Grew from intern to engineer by shipping 3 production SaaS apps: bulk SMS platfo
   </picture>
 </p>
 
+<a href="https://wa.me/8801303580593" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+</a>
+
 <p align="center">
   <a href="https://holopin.io/@jeishanul"><img src="https://holopin.me/jeishanul" alt="Holopin badges" /></a>
 </p>
