@@ -102,7 +102,9 @@ jeishanul := Engineer{
   &nbsp;
   <a href="https://aws.amazon.com" title="AWS"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws&theme=dark" /><img src="https://skillicons.dev/icons?i=aws&theme=light" width="48" alt="AWS" /></picture></a>
   &nbsp;
-  <a href="https://www.digitalocean.com" title="DigitalOcean"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=digitalocean&theme=dark" /><img src="https://skillicons.dev/icons?i=digitalocean&theme=light" width="48" alt="DigitalOcean" /></picture></a>
+<a href="https://www.digitalocean.com" title="DigitalOcean">
+  <img src="https://skillicons.dev/icons?i=digitalocean&theme=dark" width="48" alt="DigitalOcean" />
+</a>
   &nbsp;
   <a href="https://en.wikipedia.org/wiki/Virtual_private_server" title="VPS"><img src="https://img.shields.io/badge/VPS-Server-23272A?style=for-the-badge&logo=serverfault&logoColor=white" height="40" alt="VPS" /></a>
   &nbsp;
