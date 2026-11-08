@@ -233,9 +233,9 @@ Grew from intern to engineer by shipping 3 production SaaS apps: bulk SMS platfo
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jeishanul&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark&icon_color=0EA5E9&title_color=0EA5E9&text_color=94A3B8&bg_color=0D1117" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=jeishanul&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark&icon_color=0EA5E9&title_color=0EA5E9&text_color=94A3B8&bg_color=0D1117" alt="GitHub stats" />
   &nbsp;
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jeishanul&layout=compact&hide_border=true&theme=github_dark&title_color=0EA5E9&text_color=94A3B8&bg_color=0D1117" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jeishanul&layout=compact&hide_border=true&theme=github_dark&title_color=0EA5E9&text_color=94A3B8&bg_color=0D1117" alt="Top languages" />
 </p>
 
 <p align="center">
