@@ -233,14 +233,9 @@ Grew from intern to engineer by shipping 3 production SaaS apps: bulk SMS platfo
 ## 📊 GitHub Stats
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jeishanul&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark&icon_color=0EA5E9&title_color=0EA5E9" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=jeishanul&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default&icon_color=0EA5E9&title_color=0EA5E9" alt="GitHub stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jeishanul&layout=compact&hide_border=true&theme=github_dark&title_color=0EA5E9" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeishanul&layout=compact&hide_border=true&theme=default&title_color=0EA5E9" alt="Top languages" />
-  </picture>
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jeishanul&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark&icon_color=10B981&title_color=10B981&text_color=94A3B8&bg_color=0D1117" alt="GitHub stats" />
+  &nbsp;
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jeishanul&layout=compact&hide_border=true&theme=github_dark&title_color=10B981&text_color=94A3B8&bg_color=0D1117" alt="Top languages" />
 </p>
 
 <p align="center">
