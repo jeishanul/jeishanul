@@ -1,7 +1,33 @@
 <!-- ============ HEADER ============ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:6366F1&height=200&section=header&text=Jeishanul%20Haque%20Shishir&fontSize=40&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Software%20Engineer%20%E2%80%A2%20Dhaka,%20Bangladesh&descSize=16&descAlignY=56" width="100%" alt="Header" />
-</p>
+<div align="center">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 180" width="100%">
+    <defs>
+      <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#0a0f1d"/>
+        <stop offset="50%" stop-color="#0f172a"/>
+        <stop offset="100%" stop-color="#030712"/>
+      </linearGradient>
+      <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#38bdf8"/>
+        <stop offset="50%" stop-color="#818cf8"/>
+        <stop offset="100%" stop-color="#c084fc"/>
+      </linearGradient>
+    </defs>
+    <rect width="900" height="180" rx="16" fill="url(#bgGrad)" stroke="#1e293b" stroke-width="1.5"/>
+    <circle cx="35" cy="35" r="5" fill="#ef4444"/>
+    <circle cx="52" cy="35" r="5" fill="#f59e0b"/>
+    <circle cx="69" cy="35" r="5" fill="#10b981"/>
+    <text x="50%" y="78" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-weight="700" font-size="36" fill="url(#accentGrad)">
+      MD. JEISHANUL HAQUE SHISHIR
+    </text>
+    <text x="50%" y="112" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-weight="400" font-size="16" fill="#94a3b8">
+      Backend &amp; Distributed Systems Engineer • Go • Apache Kafka • PostgreSQL
+    </text>
+    <text x="50%" y="142" text-anchor="middle" font-family="'Fira Code', monospace" font-size="13" fill="#38bdf8">
+      $ processing 15,000+ daily shipments @ Steadfast Courier Ltd
+    </text>
+  </svg>
+</div>
 
 <p align="center">
   <a href="https://jeishanul.com">
@@ -191,14 +217,6 @@ Full Stack Engineer with 5+ years of experience specialising in distributed back
 | 🧰 **KajClick** | Online work & task marketplace | [![Live](https://img.shields.io/badge/Visit-0EA5E9?style=flat-square)](https://kajclick.com) |
 | 📋 **TaskOpera** | Task & work marketplace platform | [![Live](https://img.shields.io/badge/Visit-0EA5E9?style=flat-square)](https://taskopera.com) |
 | 🛒 **TaskOpera Cart** | E-commerce storefront & cart system | [![Live](https://img.shields.io/badge/Visit-0EA5E9?style=flat-square)](https://cart.taskopera.com) |
-
-### 🚚 Built at Steadfast Courier Limited
-
-| Project | What it is | Link |
-|:---|:---|:---:|
-| 📦 **BanglaDrop** | E-commerce & dropshipping platform for Bangladesh | [![Live](https://img.shields.io/badge/Visit-0EA5E9?style=flat-square)](https://bangladrop.com) |
-| 🛍️ **Packly** | Online commerce platform | [![Live](https://img.shields.io/badge/Visit-0EA5E9?style=flat-square)](https://packly.com) |
-| 🚚 **Packly Drive** | Delivery & logistics companion to Packly | [![Live](https://img.shields.io/badge/Visit-0EA5E9?style=flat-square)](https://packlydrive.com) |
 
 ### 🏢 Built at RazinSoft
 
