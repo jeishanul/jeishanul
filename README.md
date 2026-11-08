@@ -1,14 +1,6 @@
 <!-- ============ HEADER ============ -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=1200&color=0EA5E9&center=true&vCenter=true&width=700&height=70&lines=Jeishanul+Haque+Shishir;Go+%7C+Distributed+Systems+Engineer;Logistics+Super+App+Architect" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-High--Scale_Microservices-0ea5e9?style=for-the-badge&logo=go&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Current_Throughput-15k+_Shipments/day-6366f1?style=for-the-badge&logo=apachekafka&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Location-Dhaka,_BD-10b981?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,2,10,24,30&height=220&section=header&text=Jeishanul%20Haque%20Shishir&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Backend%20%26%20Distributed%20Systems%20Engineer%20%7C%20Go%20%E2%80%A2%20Kafka%20%E2%80%A2%20PostgreSQL&descSize=16&descAlignY=62&stroke=0EA5E9&strokeWidth=2" width="100%" alt="Header" />
 </p>
 
 <p align="center">
