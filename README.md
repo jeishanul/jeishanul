@@ -44,14 +44,10 @@ Full Stack Engineer with 5+ years of experience specialising in distributed back
 
 ## 📈 Impact at a Glance
 
-<div align="center">
-
-| 🚚 Daily shipments | ⚡ Query speed-up | 🔍 Search latency cut | 📦 Catalogue size | 🗄️ DB load reduced |
-|:---:|:---:|:---:|:---:|:---:|
+| 🚚 Daily Shipments | ⚡ Query Execution Cut | 🔍 Search Latency Cut | 📦 Catalogue Managed | 🗄️ Peak DB Load Cut |
+|:---|:---|:---|:---|:---|
 | **15,000+** | **45%** | **up to 70%** | **300K+ SKUs** | **up to 40%** |
-| Go + PostgreSQL services | Partitioning & indexing | Redis caching | Shopify sync | Redis + schema tuning |
-
-</div>
+| Go & PostgreSQL dispatch[cite: 1] | Partitioning & composite indexing[cite: 1] | Redis & selective caching[cite: 2] | Shopify & inventory sync[cite: 2] | Redis & schema profiling[cite: 2] |
 
 ---
 
