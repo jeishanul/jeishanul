@@ -176,14 +176,6 @@ jeishanul := Engineer{
 
 <!-- ✏️ The one-line descriptions are best guesses from the product names — edit any that don't match. -->
 
-### 🚚 Built at Steadfast Courier Limited
-
-| Project | What it is | Link |
-|:---|:---|:---:|
-| 📦 **BanglaDrop** | E-commerce & dropshipping platform for Bangladesh | [![Live](https://img.shields.io/badge/Visit-0EA5E9?style=flat-square)](https://bangladrop.com) |
-| 🛍️ **Packly** | Online commerce platform | [![Live](https://img.shields.io/badge/Visit-0EA5E9?style=flat-square)](https://packly.com) |
-| 🚚 **Packly Drive** | Delivery & logistics companion to Packly | [![Live](https://img.shields.io/badge/Visit-0EA5E9?style=flat-square)](https://packlydrive.com) |
-
 ### 🌐 Personal & Freelance
 
 | Project | What it is | Link |
@@ -195,6 +187,14 @@ jeishanul := Engineer{
 | 🧰 **KajClick** | Online work & task marketplace | [![Live](https://img.shields.io/badge/Visit-0EA5E9?style=flat-square)](https://kajclick.com) |
 | 📋 **TaskOpera** | Task & work marketplace platform | [![Live](https://img.shields.io/badge/Visit-0EA5E9?style=flat-square)](https://taskopera.com) |
 | 🛒 **TaskOpera Cart** | E-commerce storefront & cart system | [![Live](https://img.shields.io/badge/Visit-0EA5E9?style=flat-square)](https://cart.taskopera.com) |
+
+### 🚚 Built at Steadfast Courier Limited
+
+| Project | What it is | Link |
+|:---|:---|:---:|
+| 📦 **BanglaDrop** | E-commerce & dropshipping platform for Bangladesh | [![Live](https://img.shields.io/badge/Visit-0EA5E9?style=flat-square)](https://bangladrop.com) |
+| 🛍️ **Packly** | Online commerce platform | [![Live](https://img.shields.io/badge/Visit-0EA5E9?style=flat-square)](https://packly.com) |
+| 🚚 **Packly Drive** | Delivery & logistics companion to Packly | [![Live](https://img.shields.io/badge/Visit-0EA5E9?style=flat-square)](https://packlydrive.com) |
 
 ### 🏢 Built at RazinSoft
 
