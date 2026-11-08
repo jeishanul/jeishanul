@@ -1,33 +1,15 @@
 <!-- ============ HEADER ============ -->
-<div align="center">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 180" width="100%">
-    <defs>
-      <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" stop-color="#0a0f1d"/>
-        <stop offset="50%" stop-color="#0f172a"/>
-        <stop offset="100%" stop-color="#030712"/>
-      </linearGradient>
-      <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#38bdf8"/>
-        <stop offset="50%" stop-color="#818cf8"/>
-        <stop offset="100%" stop-color="#c084fc"/>
-      </linearGradient>
-    </defs>
-    <rect width="900" height="180" rx="16" fill="url(#bgGrad)" stroke="#1e293b" stroke-width="1.5"/>
-    <circle cx="35" cy="35" r="5" fill="#ef4444"/>
-    <circle cx="52" cy="35" r="5" fill="#f59e0b"/>
-    <circle cx="69" cy="35" r="5" fill="#10b981"/>
-    <text x="50%" y="78" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-weight="700" font-size="36" fill="url(#accentGrad)">
-      MD. JEISHANUL HAQUE SHISHIR
-    </text>
-    <text x="50%" y="112" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-weight="400" font-size="16" fill="#94a3b8">
-      Backend &amp; Distributed Systems Engineer • Go • Apache Kafka • PostgreSQL
-    </text>
-    <text x="50%" y="142" text-anchor="middle" font-family="'Fira Code', monospace" font-size="13" fill="#38bdf8">
-      $ processing 15,000+ daily shipments @ Steadfast Courier Ltd
-    </text>
-  </svg>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=1200&color=0EA5E9&center=true&vCenter=true&width=700&height=70&lines=Jeishanul+Haque+Shishir;Go+%7C+Distributed+Systems+Engineer;Logistics+Super+App+Architect" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-High--Scale_Microservices-0ea5e9?style=for-the-badge&logo=go&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Current_Throughput-15k+_Shipments/day-6366f1?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Location-Dhaka,_BD-10b981?style=for-the-badge&logo=googlemaps&logoColor=white" />
+</p>
 
 <p align="center">
   <a href="https://jeishanul.com">
