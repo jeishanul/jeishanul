@@ -1,6 +1,6 @@
 <!-- ============ HEADER ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,2,10,24,30&height=220&section=header&text=Jeishanul%20Haque%20Shishir&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Backend%20%26%20Distributed%20Systems%20Engineer%20%7C%20Go%20%E2%80%A2%20Kafka%20%E2%80%A2%20PostgreSQL&descSize=16&descAlignY=62&stroke=0EA5E9&strokeWidth=2" width="100%" alt="Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Hi%2C+I'm+Jeishanul+Haque+Shishir+%F0%9F%91%8B;Backend+%26+Distributed+Systems+Engineer;Go+%E2%80%A2+Microservices+%E2%80%A2+Kafka+%E2%80%A2+PostgreSQL;Building+High-Throughput+Logistics+%26+E-Commerce+Systems" width="100%" alt="Header" />
 </p>
 
 <p align="center">
