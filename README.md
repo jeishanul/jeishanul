@@ -16,7 +16,7 @@
   &nbsp;
   <a href="mailto:shishirjeishanul@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   &nbsp;
-  <a href="https://wa.link/rundct"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="https://wa.me/+8801303580593"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 </p>
 
 <p align="center">
@@ -268,5 +268,5 @@ I enjoy turning messy business requirements into clean, reliable systems — esp
 📫 **shishirjeishanul@gmail.com** · 🌐 **[jeishanul.com](https://jeishanul.com)**
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:059669,100:10B981&height=110&section=footer" width="100%" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0575E6,100:00F260&height=110&section=footer" width="100%" alt="Footer" />
 </p>
