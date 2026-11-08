@@ -268,5 +268,5 @@ I enjoy turning messy business requirements into clean, reliable systems — esp
 📫 **shishirjeishanul@gmail.com** · 🌐 **[jeishanul.com](https://jeishanul.com)**
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:0EA5E9&height=110&section=footer" width="100%" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:059669,100:10B981&height=110&section=footer" width="100%" alt="Footer" />
 </p>
